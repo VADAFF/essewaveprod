@@ -262,7 +262,7 @@ button:hover{
     
 }
 
-.footer-text{
+.footer{
     position:center;
-    margin-left:30%;
+    margin-left:-30%;
         }
